@@ -82,7 +82,7 @@ predict_sentiment("Terrible movie, complete waste of time.")
 ## 👤 Author
 
 Made by **Mazen Mohamed Fayez**
-- GitHub: [@MazenMohamed20](https://github.com/your_username)
+- GitHub: [@MazenMohamed20](https://github.com/MazenMohamed20)
 
 ---
 
