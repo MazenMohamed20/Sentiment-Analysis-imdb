@@ -1,0 +1,4 @@
+scikit-learn  ← TfidfVectorizer + LogisticRegression
+datasets      ← load_dataset("imdb")
+matplotlib    ← plotting the Confusion Matrix
+numpy         ← mathematical operations
